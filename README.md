@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Kshitij! 👋</h1>
-  <!-- Updated to 2nd-Year -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=2nd-Year+BTech+CSE+Student;Grinding+Data+Structures+%26+Algorithms;Java,+C%2B%2B,+%26+Python+Developer" alt="Typing SVG" />
   
   <br><br>
@@ -30,23 +29,9 @@ I am a **second-year** Computer Science and Engineering student actively explori
 
 ---
 
-## 📊 Analytics & Progress
+## 🧩 LeetCode Progress
 
 <div align="center">
-  <!-- Replaced broken stats card with a live GitHub Contribution Graph matching your actual profile -->
-  <a href="https://github.com/pheonixspec">
-    <img src="https://ghchart.rshah.org/pheonixspec" alt="GitHub Contribution Graph" />
-  </a>
-
-  <br><br>
-  
-  <!-- GitHub Streak -->
-  <a href="https://github.com/pheonixspec">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pheonixspec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
   <!-- Animated Circular LeetCode Progress -->
   <a href="https://leetcode.com/u/oddcandlee/">
     <img src="https://leetcard.jacoblin.cool/oddcandlee?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" />
