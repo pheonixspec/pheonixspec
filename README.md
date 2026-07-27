@@ -1,32 +1,30 @@
 <div align="center">
 
-<!-- HEADER BACKGROUND DASHBOARD -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!-- CINEMATIC WORKSPACE HEADER -->
+<img src="workspace_bg.jpg" width="100%" alt="Developer Workspace Setup" />
+
+<br/>
+
+<!-- Terminal Window Profile Header -->
+<table width="90%" bgcolor="#0A101F" style="border: 1px solid #FF3333; opacity: 0.95;">
   <tr>
-    <td background="https://raw.githubusercontent.com/pheonixspec/pheonixspec/main/workspace_bg.jpg" bgcolor="#0A101F" align="center" style="background-size: cover; background-position: center; padding: 40px 20px;">
-      <!-- Terminal Window Profile Header -->
-      <table width="90%" bgcolor="#0A101F" style="border: 1px solid #FF3333; border-radius: 8px; box-shadow: 0 10px 30px rgba(255, 51, 51, 0.15); opacity: 0.95;">
-        <tr>
-          <!-- Terminal Title Bar -->
-          <td bgcolor="#2203EE" style="padding: 10px 20px; border-radius: 7px 7px 0 0; color: #FFFFFF; font-family: monospace; font-size: 14px; font-weight: bold; letter-spacing: 1px;">
-            ⚡ pheonixspec@developer:~ | profile.sh --live
-          </td>
-        </tr>
-        <tr>
-          <!-- Terminal Body -->
-          <td style="padding: 25px; font-family: 'Courier New', monospace; color: #A78BFA; font-size: 15px; line-height: 1.6;">
-            <span style="color: #FF3333;">&gt; cat user_info.json</span><br/>
-            {<br/>
-            &nbsp;&nbsp;"name": <span style="color: #1B8981;">"Kshitij"</span>,<br/>
-            &nbsp;&nbsp;"role": <span style="color: #1B8981;">"Second-Year BTech CSE Student & Developer"</span>,<br/>
-            &nbsp;&nbsp;"origin": <span style="color: #1B8981;">"India"</span>,<br/>
-            &nbsp;&nbsp;"status": <span style="color: #1B8981;">"Actively Learning DSA"</span>,<br/>
-            &nbsp;&nbsp;"stack": [<span style="color: #7C3AED;">"Java"</span>, <span style="color: #7C3AED;">"C++"</span>, <span style="color: #7C3AED;">"Python"</span>]<br/>
-            }<br/>
-            <span style="color: #1B8981;">&gt; monitoring --live-metrics _</span>
-          </td>
-        </tr>
-      </table>
+    <!-- Terminal Title Bar -->
+    <td bgcolor="#2203EE" style="padding: 10px 20px; color: #FFFFFF; font-family: monospace; font-size: 14px; font-weight: bold; letter-spacing: 1px;">
+      ⚡ pheonixspec@developer:~ | profile.sh --live
+    </td>
+  </tr>
+  <tr>
+    <!-- Terminal Body -->
+    <td style="padding: 25px; font-family: 'Courier New', monospace; color: #A78BFA; font-size: 15px; line-height: 1.6;">
+      <span style="color: #FF3333;">&gt; cat user_info.json</span><br/>
+      {<br/>
+      &nbsp;&nbsp;"name": <span style="color: #1B8981;">"Kshitij"</span>,<br/>
+      &nbsp;&nbsp;"role": <span style="color: #1B8981;">"Second-Year BTech CSE Student & Developer"</span>,<br/>
+      &nbsp;&nbsp;"origin": <span style="color: #1B8981;">"India"</span>,<br/>
+      &nbsp;&nbsp;"status": <span style="color: #1B8981;">"Actively Learning DSA"</span>,<br/>
+      &nbsp;&nbsp;"stack": [<span style="color: #7C3AED;">"Java"</span>, <span style="color: #7C3AED;">"C++"</span>, <span style="color: #7C3AED;">"Python"</span>]<br/>
+      }<br/>
+      <span style="color: #1B8981;">&gt; monitoring --live-metrics _</span>
     </td>
   </tr>
 </table>
