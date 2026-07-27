@@ -32,8 +32,8 @@ I am a **second-year** Computer Science and Engineering student actively explori
 ## 🧩 LeetCode Progress
 
 <div align="center">
-  <!-- Switched to the highly stable JacobLin API with forced Dark Theme to avoid backend crashes -->
+  <!-- Highly stable API with transparency and hidden borders to blend perfectly into the background -->
   <a href="https://leetcode.com/u/oddcandlee/">
-    <img src="https://leetcard.jacoblin.cool/oddcandlee?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/oddcandlee?theme=dark&font=Fira%20Code&hide_border=true&bg_color=00000000" alt="LeetCode Stats" />
   </a>
 </div>
