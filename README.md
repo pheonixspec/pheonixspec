@@ -1,25 +1,52 @@
-<h1 align="center">Hi 👋, I'm Kshitij</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <!-- Eye-Appealing Element 1: Dynamic Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kshitij+👋;2nd-Year+CSE+Student;Learning+Data+Structures+%26+Algorithms;Java,+C%2B%2B,+%26+Python+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonixspec&label=Profile%20views&color=0e75b6&style=flat" alt="pheonixspec" /> </p>
+<br>
 
-- 🌱 I’m currently learning **Data structures and algorithms**
+<div align="center">
+  <a href="https://www.linkedin.com/in/kshitijsharma12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/oddcandlee/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
 
-- 📫 How to reach me **kshitij12020@gmail.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kshitij sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/env.kshitij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="env.kshitij" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oddcandlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oddcandlee" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/562123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="562123" height="30" width="40" /></a>
-</p>
+- 🎓 I'm currently in my **second year** of BTech Computer Science and Engineering.
+- 🧠 I'm actively grinding **DSA** and solving problems on LeetCode.
+- 🛠️ Building projects and solving problems using **Java, C++, and Python**.
+- 🚀 Constantly participating in hackathons and building utility tools.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pheonixspec&show_icons=true&locale=en&layout=compact" alt="pheonixspec" /></p>
+## 🔥 My Stats & Streak
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pheonixspec&show_icons=true&locale=en" alt="pheonixspec" /></p>
+<div align="center">
+  <!-- Eye-Appealing Element 2: GitHub Streak & Stats -->
+  <a href="https://github.com/pheonixspec">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pheonixspec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pheonixspec&" alt="pheonixspec" /></p>
+<br>
+
+<div align="center">
+  <a href="https://github.com/pheonixspec">
+    <img src="https://github-readme-stats.vercel.app/api?username=pheonixspec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</div>
+
+<br>
+
+## 🧩 LeetCode Progress
+
+<div align="center">
+  <!-- Eye-Appealing Element 3: Live LeetCode Card -->
+  <a href="https://leetcode.com/u/oddcandlee/">
+    <img src="https://leetcard.jacoblin.cool/oddcandlee?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
