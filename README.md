@@ -1,16 +1,18 @@
 <div align="center">
-  <!-- Eye-Appealing Element 1: Dynamic Typing SVG -->
+  <!-- Dynamic Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kshitij+👋;2nd-Year+CSE+Student;Learning+Data+Structures+%26+Algorithms;Java,+C%2B%2B,+%26+Python+Developer" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
+  <!-- Clean Standalone Logos -->
   <a href="https://www.linkedin.com/in/kshitijsharma12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="35" height="35" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/oddcandlee/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="35" height="35" />
   </a>
 </div>
 
@@ -26,9 +28,9 @@
 ## 🔥 My Stats & Streak
 
 <div align="center">
-  <!-- Eye-Appealing Element 2: GitHub Streak & Stats -->
+  <!-- Fixed GitHub Streak (Switched to Demolab mirror for stability) -->
   <a href="https://github.com/pheonixspec">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pheonixspec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=pheonixspec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -45,8 +47,8 @@
 ## 🧩 LeetCode Progress
 
 <div align="center">
-  <!-- Eye-Appealing Element 3: Live LeetCode Card -->
+  <!-- Fixed LeetCode Card (Forced Dark Theme) -->
   <a href="https://leetcode.com/u/oddcandlee/">
-    <img src="https://leetcard.jacoblin.cool/oddcandlee?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/oddcandlee?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
