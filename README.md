@@ -32,8 +32,8 @@ I am a **second-year** Computer Science and Engineering student actively explori
 ## 🧩 LeetCode Progress
 
 <div align="center">
-  <!-- Animated Circular LeetCode Progress -->
+  <!-- Switched to the Circular Dark Theme API to match native LeetCode UI -->
   <a href="https://leetcode.com/u/oddcandlee/">
-    <img src="https://leetcard.jacoblin.cool/oddcandlee?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats.vercel.app/api?username=oddcandlee&theme=dark" alt="LeetCode Stats" />
   </a>
 </div>
